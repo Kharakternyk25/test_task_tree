@@ -1,4 +1,3 @@
-<!-- 
 npm install
 npm start
 
@@ -11,4 +10,3 @@ Solution should be able to:
 ● Delete leaf (you should add Delete button)
 ● Delete parent node with children (you should add Delete button)
 ● Expand/Collapse parent node (child nodes should collapse too)
--->
